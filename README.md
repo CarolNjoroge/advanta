@@ -1,9 +1,9 @@
 # carolnjoroge.github.io
 
-SIMPLE web application that displays items on sale
+#SIMPLE web application that displays items on sale
 
-Tools used:
-Xampp, Editors(Notepad++, Dreamweaver, Sublime)
+#Tools used:
+#Xampp, Editors(Notepad++, Dreamweaver, Sublime)
 Database - MYSQL
 Scripting Language - PHP 
 Markup Language - HTML
